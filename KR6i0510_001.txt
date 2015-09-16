@@ -1,21 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:18.498020
+#+DATE: 2015-08-30 20:21:19.840392
 #+TITLE: 佛說解憂經
 #+PROPERTY: CBETA_ID T17n0804
 #+PROPERTY: ID KR6i0510
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 804
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0510_T_001-0749b> 
 #+PROPERTY: JUAN 1
 ¶
-No.804¶
-
- 《佛說解憂經》¶
+No. 804¶
+《佛說解憂經》¶
 ¶
-西天譯經三藏朝散大夫鴻臚卿¶
-傳教大師臣法天奉　詔譯¶
+西天譯經三藏朝散大夫鴻臚卿傳教大師臣法天奉　詔譯¶
 
 #+BEGIN_VERSE
 「　稽首歸依正等覺，
